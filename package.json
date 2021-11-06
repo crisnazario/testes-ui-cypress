@@ -1,0 +1,23 @@
+{
+  "name": "testes-ui-cypress",
+  "version": "1.0.0",
+  "description": "Teste automatizado referente ao módulo 11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crisnazario/testes-ui-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crisnazario/testes-ui-cypress/issues"
+  },
+  "homepage": "https://github.com/crisnazario/testes-ui-cypress#readme",
+  "devDependencies": {
+    "cypress": "^8.7.0"
+  }
+}
